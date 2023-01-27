@@ -1,4 +1,4 @@
-### freecodecamp_celestial
+### freecodecamp_Celestial Project
 
 ##### Step by step commands to building a database using Postgres from the terminal with VSCode
 
